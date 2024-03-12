@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <META http-equiv="X-UA-Compatible" contpatiblent="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/css/style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap">
+        <title>New Portofilo New Site</title>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <div class="logo">
+                <h2><a href="#">Gureyaz Company</a></h2>
+            </div>
+            <ul class="nav_links">
+                <li>
+                    <a href="#anasayfa">Anasayfa</a></li>
+                    <a href="#biz_kimiz">Biz Kimiz</a></li>
+                    <a href="#is">Is</a></li>
+                    <a href="#gereklilikler">Gereklilikler</a></li>
+                    <a href="#basvuru">Basvuru</a></li>
+                    <a href="#iletisim">Iletisim</a></li>
+            </ul>
+        </div>
+    </header>
+    <!---Anasayfa---->
+    <section id="Anasayfa">
+        <div class="inner_anasayfa">
+        <div class="child_anasayfa">
+            <h1>We Need An Application Manager<br> <span class="span_child">Why Are You Stil Waiting?</span></h1>
+            <p>Do you want to join us?</p>
+            <button class="btn">Make an application</button>
+        </div>
+        <div class="child_anasayfa">
+            <img src="img/imagen-smart-app-manager-0ori.jpg">
+        </div>
+        </div>
+    </section>
+
+    <!-----Biz Kimiz-->
+    <section id="biz_kimiz">
+        <div class="innersoftware">
+            <div class="icon">
+                <i class="fa-solid fa-building"></i>
+            </div>
+            <h3>Sirketimiz</h3>
+            <p>bla bla bla</p>
+        </div>
+        <div class="icon">
+            <i class="fa-solid fa-computer"></i>"
+        </div>
+        <h3>Vizyonumuz</h3>
+        <p>bla bla bla</p>
+    </div>
+    <div class="icon">
+        <i class="fa-solid fa-computer"></i>"
+    </div>
+    <h3>Yaptiklarimiz</h3>
+    <p>bla bla bla</p>
+</div>
+        
+    </section>
+</body>
+</html>
